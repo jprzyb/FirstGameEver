@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1618221464 source:c:\users\asrock\onedrive\pulpit\giera2.0\metody.cpp
+	<iostream>
+	<fstream>
+	"klasy.h"
+	<windows.h>
+	<string>
+	<ctime>
+	<cstdlib>
+
+1618750845 c:\users\asrock\onedrive\pulpit\giera2.0\klasy.h
+	<iostream>
+	<string>
+
+1619161882 source:c:\users\asrock\onedrive\pulpit\giera2.0\main.cpp
+	<iostream>
+	"klasy.h"
+	<cstdlib>
+	<conio.h>
+	<ctime>
+	<windows.h>
+	<fstream>
+
+1618472101 source:c:\users\asrock\onedrive\pulpit\kc.cpp
+	<iostream>
+
+1619158282 source:d:\syf\giera2.0\main.cpp
+	<iostream>
+	"klasy.h"
+	<cstdlib>
+	<conio.h>
+	<ctime>
+	<windows.h>
+	<fstream>
+
+1618747245 d:\syf\giera2.0\klasy.h
+	<iostream>
+	<string>
+
+1635281358 source:d:\syf\giera2.0\metody.cpp
+	<iostream>
+	<fstream>
+	"klasy.h"
+	<windows.h>
+	<string>
+	<ctime>
+	<cstdlib>
+
